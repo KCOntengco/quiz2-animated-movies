@@ -73,6 +73,7 @@ background-image: url(https://cdn.pixabay.com/photo/2019/07/14/15/34/background-
     display: inline-flex;
     margin-left: 10%;
     margin-right: 10%;
+    wrap-text: wrap;
 }
 
 .card {
